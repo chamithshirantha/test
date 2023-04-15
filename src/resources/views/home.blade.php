@@ -13,10 +13,10 @@
   <body>
     <h1>Hello, world!</h1>
 
-    @foreach ($all as $item)
+    {{-- @foreach ($all as $item)
         <h2>{{$item->name}}</h2><br>
         <h2>{{$item->age}}</h2><br>
-    @endforeach
+    @endforeach --}}
 
     
   </body>
